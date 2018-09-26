@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AddingNumbers</string>
+    <string name="button_text">Számol</string>
+</resources>

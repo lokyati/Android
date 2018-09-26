@@ -1,0 +1,4 @@
+#Tue Sep 19 11:19:15 EEST 2017
+base.0=D\:\\EGYETEM\\OKTATAS\\KURZUSOK\\Android programozas\\Laborok\\2017-2018\\L1\\L1\\EditTextApp1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_8fde5a4a97db01919b668153a009d386430d72d2
+renamed.0=classes.dex
+file.0=D\:\\EGYETEM\\OKTATAS\\KURZUSOK\\Android programozas\\Laborok\\2017-2018\\L1\\L1\\EditTextApp1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_8fde5a4a97db01919b668153a009d386430d72d2\\classes.dex

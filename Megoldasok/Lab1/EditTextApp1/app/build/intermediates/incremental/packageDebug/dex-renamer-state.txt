@@ -1,0 +1,7 @@
+#Tue Sep 19 11:19:17 EEST 2017
+base.0=D\:\\EGYETEM\\OKTATAS\\KURZUSOK\\Android programozas\\Laborok\\2017-2018\\L1\\L1\\EditTextApp1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4a227cd2eaff3145ce1b2b5ad2a10d7c0c847082
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\EGYETEM\\OKTATAS\\KURZUSOK\\Android programozas\\Laborok\\2017-2018\\L1\\L1\\EditTextApp1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25e1bf447f07a324cfee58634fd2108f3371c5e3\\classes.dex
+base.1=D\:\\EGYETEM\\OKTATAS\\KURZUSOK\\Android programozas\\Laborok\\2017-2018\\L1\\L1\\EditTextApp1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25e1bf447f07a324cfee58634fd2108f3371c5e3
+file.0=D\:\\EGYETEM\\OKTATAS\\KURZUSOK\\Android programozas\\Laborok\\2017-2018\\L1\\L1\\EditTextApp1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4a227cd2eaff3145ce1b2b5ad2a10d7c0c847082\\classes.dex

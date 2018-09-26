@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\EGYETEM\OKTATAS\KURZUSOK\Android programozas\Laborok\2017-2018\L1\L1\EditTextApp1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\EGYETEM\OKTATAS\KURZUSOK\Android programozas\Laborok\2017-2018\L1\L1\EditTextApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_25e1bf447f07a324cfee58634fd2108f3371c5e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EGYETEM\OKTATAS\KURZUSOK\Android programozas\Laborok\2017-2018\L1\L1\EditTextApp1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9069ab88d9bb488209b196e94b6be2382df0bf9b">
+        <dex dex="D:\EGYETEM\OKTATAS\KURZUSOK\Android programozas\Laborok\2017-2018\L1\L1\EditTextApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4a227cd2eaff3145ce1b2b5ad2a10d7c0c847082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pali\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\EGYETEM\OKTATAS\KURZUSOK\Android programozas\Laborok\2017-2018\L1\L1\EditTextApp1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_8fde5a4a97db01919b668153a009d386430d72d2\classes.dex" />
+    </item>
+
+</items>
