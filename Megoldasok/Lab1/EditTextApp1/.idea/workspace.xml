@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidunleashed/edittextapp/EditTextAppActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -1864,7 +1864,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Gyakorlatok/Lab2/ActivityLifecycleMonitor" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1537947708713" />
   </component>
   <component name="RunDashboard">
@@ -2104,7 +2104,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/androidunleashed/edittextapp/EditTextAppActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding />
         </state>
       </provider>
